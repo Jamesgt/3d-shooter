@@ -1,0 +1,6 @@
+*.sublime-workspace
+*.sublime-project
+nodebin.js
+server/pid.txt
+server/js/*
+client/js/*
